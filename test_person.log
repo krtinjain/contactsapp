@@ -1,0 +1,83 @@
+First Name: Tommy J.
+Last Name: Trojan Williams
+Birthdate (M/D/YYYY): 10/06/1880
+Do you want to add a Contact information? (Y/N) Y
+Select from Email/Phone/SocialNetwork: Email
+Enter the type of email address: USC-official
+Enter email address: tommytrojan@usc.edu
+Do you want to add a Contact information? (Y/N) Y
+Select from Email/Phone/SocialNetwork: Phone
+Enter the type of phone number: Cell
+Enter the phone number: 310-219-7842
+Do you want to add a Contact information? (Y/N) Y
+Select from Email/Phone/SocialNetwork: Phone
+Enter the type of phone number: Work
+Enter the phone number: 2138004567
+Do you want to add a Contact information? (Y/N) Y
+Select from Email/Phone/SocialNetwork: SocialNetwork
+Enter the type of social network account: LinkedIn
+Enter the handler for LinkedIn account: tommyUSC
+Do you want to add a Contact information? (Y/N) K
+Do you want to add a Contact information? (Y/N) L
+Do you want to add a Contact information? (Y/N) 5
+Do you want to add a Contact information? (Y/N) 4
+Do you want to add a Contact information? (Y/N) Y
+Select from Email/Phone/SocialNetwork: Email
+Enter the type of email address: Gmail
+Enter email address: tommy1880@gmail.com
+Do you want to add a Contact information? (Y/N) N
+Trojan Williams, Tommy J.
+October 6, 1880
+(USC-official) tommytrojan@usc.edu
+(Cell) 310-219-7842
+(Work) 213-800-4567
+(LinkedIn) tommyUSC
+(Gmail) tommy1880@gmail.com
+
+Remove contact information menu:
+[1]     (USC-official) tommytrojan@usc.edu
+[2]     (Cell) 310-219-7842
+[3]     (Work) 213-800-4567
+[4]     (LinkedIn) tommyUSC
+[5]     (Gmail) tommy1880@gmail.com
+Which contact to remove (select number, or quit)? 8
+
+Remove contact information menu:
+[1]     (USC-official) tommytrojan@usc.edu
+[2]     (Cell) 310-219-7842
+[3]     (Work) 213-800-4567
+[4]     (LinkedIn) tommyUSC
+[5]     (Gmail) tommy1880@gmail.com
+Which contact to remove (select number, or quit)? 3
+Are you sure you want to delete this contact (Y/N)?
+(Work) 213-800-4567
+N
+
+Remove contact information menu:
+[1]     (USC-official) tommytrojan@usc.edu
+[2]     (Cell) 310-219-7842
+[3]     (Work) 213-800-4567
+[4]     (LinkedIn) tommyUSC
+[5]     (Gmail) tommy1880@gmail.com
+Which contact to remove (select number, or quit)? 3
+Are you sure you want to delete this contact (Y/N)?
+(Work) 213-800-4567
+Y
+Contact deleted!
+
+Remove contact information menu:
+[1]     (USC-official) tommytrojan@usc.edu
+[2]     (Cell) 310-219-7842
+[3]     (LinkedIn) tommyUSC
+[4]     (Gmail) tommy1880@gmail.com
+Which contact to remove (select number, or quit)? qUiT
+------ done with p1 ----------
+Error! Invalid date!
+Date set to default!
+Montgomery Ford, Alexander Junior
+January 1, 1970
+------ done with p2 ----------
+1 0
+0 1
+------ done with checking equality operator ------
+
